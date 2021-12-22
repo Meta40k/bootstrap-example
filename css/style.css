@@ -114,3 +114,89 @@ h4 {
 .btn-violet {
     background-color: #69328e;
 }
+
+
+/* ================== SECTION WATCH ============= */
+
+.section-watch {
+    background: url(../img/background-wathc.jpg) center no-repeat;
+    background-size: cover;
+}
+
+
+.section-watch h3{
+    font-size: 33px;
+    color: #484848;
+}
+
+.section-watch h4 {
+    color: #484848;
+    font-size: 50px;
+}
+
+.section-watch .nav-pills .nav-link {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 14px 30px;
+    color: #484848;
+}
+
+.section-watch .nav-pills{
+    margin-bottom: 20px;
+}
+
+.section-watch .nav-pills .nav-item .nav-link.active {
+    background-color: #f42267;
+    color: #fff;
+    box-shadow: 0 4px 16px rgba(0,0,0,.35);
+}
+
+.btn-shadow {
+    box-shadow: 0 10px 0 #ff5990;
+    border-radius: 10px;
+    padding: 10px 25px;
+    transform: all .5s;
+}
+
+.btn-shadow:hover {
+    box-shadow: 0 5px 0 #ff5990;
+    color: #fff;
+    background-color: #da1757;
+}
+
+
+/* ============ section progress =============== */
+
+.section-progress {
+    background-color: #4b2d7f;
+    color: #fff;
+    font-size: 15px;
+    padding: 0;
+}
+
+.fas {
+    font-size: 70px;
+}
+
+.section-progress .num {
+    font-size: 50px;
+    font-weight: 600;
+    margin: 30px 0 20px;
+}
+
+.section-progress h4{
+    font-size: 30px;
+    height: 72px;
+    overflow: hidden;
+}
+
+.section-progress .progress-item:hover {
+    background-color: #40286a;
+}
+
+.section-progress .progress-item{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    transition: all .9s;
+}
