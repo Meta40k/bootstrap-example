@@ -21,7 +21,14 @@
 
 
 @media screen and (max-width : 768px){
-    
+    .section-progress .progress-item{
+        padding-top: 5px;
+        padding-bottom: 15px;
+    }
+    .section-lets{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
 
 @media screen and (max-width : 480px) {
