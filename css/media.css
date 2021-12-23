@@ -32,11 +32,11 @@
 }
 
 @media screen and (max-width : 480px) {
-    .section-watch .nav-pills .nav-link {
+    .section-tabs .nav-pills .nav-link {
         padding: 8px 16px;
 
     }
-    .section-watch .nav-pills .nav-item {
+    .section-tabs .nav-pills .nav-item {
         width: 100%;
     }
 }

@@ -134,7 +134,7 @@ h4 {
     font-size: 50px;
 }
 
-.section-watch .nav-pills .nav-link {
+.section-tabs .nav-pills .nav-link {
     font-size: 13px;
     font-weight: 600;
     text-transform: uppercase;
@@ -142,11 +142,11 @@ h4 {
     color: #484848;
 }
 
-.section-watch .nav-pills {
+.section-tabs .nav-pills {
     margin-bottom: 20px;
 }
 
-.section-watch .nav-pills .nav-item .nav-link.active {
+.section-tabs .nav-pills .nav-item .nav-link.active {
     background-color: #f42267;
     color: #fff;
     box-shadow: 0 4px 16px rgba(0, 0, 0, .35);
@@ -256,3 +256,28 @@ iframe{
     background: url(../img/play.png) center no-repeat;
     z-index: 222;
 }
+
+
+/* ============section work ================ */
+
+.section-work {
+    background-color: #f1f1f1;
+}
+
+.section-work .nav-pills {
+    margin: 30px 0;
+}
+
+.gallery-item {
+    margin-bottom: 20px;
+}
+
+.gallery a img {
+    transition: all .5s; 
+}
+
+.gallery a:hover img {
+    transition: all .5s; 
+    box-shadow: 0 14px 30px -15px rgba(0,0,0,.35);
+}
+
