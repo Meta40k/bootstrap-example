@@ -7,7 +7,7 @@
         border-radius: 30px;
     }
 
-    .navbar-nav {
+    .main-header .navbar-nav {
         background: linear-gradient(45deg, #ed1b33 40%, #2989d8 70%, #207cca 81%, #442082 100%);
         padding-left: 50px;
         position: relative;
