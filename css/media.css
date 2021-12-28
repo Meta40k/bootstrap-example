@@ -39,4 +39,9 @@
     .section-tabs .nav-pills .nav-item {
         width: 100%;
     }
+
+    .thumb {
+        float: none;
+        width: 100%;
+    }
 }
